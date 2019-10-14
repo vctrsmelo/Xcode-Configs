@@ -1,0 +1,7 @@
+You can install in two ways (the first one is preferred, as it will keep templates updated):
+
+1. Create a symbolic link, enabling it to always be up to date
+ln -s path/to/your/project/folder/Templates\ Xcode/MVVM-C ~/Library/Developer/Xcode/Templates
+
+2. Drag and drop MVVM-C folder into (if Templates folder does not exist, create it):
+~/Library/Developer/Xcode/Templates
